@@ -1,0 +1,68 @@
+# Blender MTL File: 'Ship50.blend'
+# Material Count: 6
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Philippe\Desktop\Texture\textureWood.bmp
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Philippe\\Desktop\\Texture\\textureWood.bmp
+
+newmtl Material.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Philippe\\Desktop\\Texture\\textureWood.bmp
+
+newmtl Material_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Philippe\\Desktop\\Texture\\textureWood.bmp
+
+newmtl Pushka_mat
+Ns 17.647059
+Ka 0.400000 0.400000 0.400000
+Kd 0.254831 0.254831 0.254831
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 5
+map_Kd C:\Users\Philippe\Desktop\anotherMetal.bmp
+
+newmtl Pushka_mat_NONE
+Ns 17.647059
+Ka 0.400000 0.400000 0.400000
+Kd 0.254831 0.254831 0.254831
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 5
+map_Kd C:\\Users\\Philippe\\Desktop\\anotherMetal.bmp

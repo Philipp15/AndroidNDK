@@ -1,0 +1,7 @@
+all: Engine
+
+Engine:
+	g++ Renderer.cpp Camera.cpp Cube.cpp DocumentSearchHelpers.cpp Helpers.cpp MeshData.cpp MeshMultipleTextures.cpp ModelPositioning.cpp objMtlLoader.cpp ShaderDetails.cpp ShaderFactory.cpp ShaderHandler.cpp ThreeDObjectBase.cpp Vertex.cpp -o Engine.so
+
+clean:
+	rm *.o Engine.so
